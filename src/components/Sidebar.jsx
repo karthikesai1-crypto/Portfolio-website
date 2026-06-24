@@ -8,7 +8,6 @@ function Sidebar(){
         <div className="slide-position">
       <h2 id="slide-name">KARTHICK</h2>
       <h5 id="position">Developer </h5>
-     
       </div>
       <ul className="nav-links">
         <li>
