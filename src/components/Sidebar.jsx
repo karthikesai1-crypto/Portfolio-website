@@ -35,7 +35,7 @@ function Sidebar(){
 
         </li>
       </ul>
-        <button className="cv-btn"> <a href="/public/karthik.pdf"> </a> Download CV</button>
+        <button className="cv-btn"> <a href="/public/karthik.pdf" download>  Download CV </a>  </button>
 
     </div>
  )

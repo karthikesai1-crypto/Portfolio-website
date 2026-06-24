@@ -27,7 +27,7 @@ function Project(){
            <span> <FaCss3Alt  className='project-icon'/>   CSS</span>
           </div>
           <div className="project-buttons">
-           <a href="#" id='git-btn'> <FaGithub className='project-icon1'/>  GitHub</a>
+           <a href="https://github.com/karthikesai1-crypto/student-management-portal.git" id='git-btn'> <FaGithub className='project-icon1'/>  GitHub</a>
            <a href="#">  Live Demo <FaExternalLinkAlt className='project-icon2'/> </a>
          </div>
          </div>
@@ -47,7 +47,7 @@ function Project(){
                     <span> <FaCss3Alt className='project-icon'/> CSS</span>
                 </div>
                  <div className="project-buttons">
-           <a href="#" id='git-btn'> <FaGithub className='project-icon1'/>  GitHub</a>
+           <a href="https://github.com/karthikesai1-crypto/employee-directory-portal.git" id='git-btn'> <FaGithub className='project-icon1'/>  GitHub</a>
            <a href="#">  Live Demo <FaExternalLinkAlt className='project-icon2'/> </a>
          </div>
             </div>
@@ -88,7 +88,7 @@ function Project(){
                  <span> <FaJs className='project-icon'/> Java Script</span>
             </div>
             <div className="project-buttons">
-           <a href="#" id='git-btn'> <FaGithub className='project-icon1'/>  GitHub</a>
+           <a href="https://github.com/karthikesai1-crypto/Portfolio-website" id='git-btn'> <FaGithub className='project-icon1'/>  GitHub</a>
            <a href="#">  Live Demo <FaExternalLinkAlt className='project-icon2'/> </a>
          </div>
         </div>
